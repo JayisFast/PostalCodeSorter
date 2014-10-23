@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 import postalcode.*;
 
 /**
- * jUnit class to support testing of classes PostalCode and PostalCodeIndex Partially complete . . . to be completed by students in CST8130
+ * jUnit class to support testing of classes PostalCode and PostalCodeIndex.
  *
  */
 public class JUnitPostalCodeLoadSortTest {
